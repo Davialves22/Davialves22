@@ -5,7 +5,7 @@
 ✨ Atualmente estou estudando:
 
 🧠 Spring Boot, React.js, Node.js, JWT Auth
-
+     
 ☁️ Integração com APIs, PostgreSQL, Cloud Storage
 
 🧪 Testes com JUnit e integração com Swagger
