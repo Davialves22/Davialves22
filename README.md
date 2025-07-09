@@ -1,16 +1,40 @@
-## Hi there 👋
+👍🏾 Olá, meu nome é Davi Gerson!
 
-<!--
-**Davialves22/Davialves22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPE.💻 Apaixonado por tecnologia, backend e desenvolvimento web full stack.
 
-Here are some ideas to get you started:
+✨ Atualmente estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Spring Boot, React.js, Node.js, JWT Auth
+
+☁️ Integração com APIs, PostgreSQL, Cloud Storage
+
+🧪 Testes com JUnit e integração com Swagger
+
+💼 Tecnologias e Ferramentas que uso:
+
+Linguagens e Plataformas:
+
+Frameworks:
+
+Outras ferramentas:
+
+🌍 Conecte-se comigo:
+
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+✨ Projetos em Destaque
+
+📚 Bibliotech – sistema completo de biblioteca com autenticação JWT e upload de livros
+
+🚷 Clínica+ – sistema de agendamento de consultas com Spring Boot + React
+
+🧠 Em constante aprendizado...
+
+“O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
