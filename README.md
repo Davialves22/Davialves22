@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Davi 👋</h1>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas no IFPE <br/>
+  💻 Estudante de IPI - Informática para Internet no IFPE <br/>
   🎯 Apaixonado por tecnologia e pelo aprendizado contínuo <br/>
 </p>
 
